@@ -1,4 +1,5 @@
-module.module.exports = {
+module.exports = {
     lintOnSave:false,
-    publicPath:'./'
+    publicPath:'./',
+    productionSourceMap:false
 }
